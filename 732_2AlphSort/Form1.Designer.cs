@@ -35,7 +35,7 @@
             // 
             // Input
             // 
-            this.Input.Location = new System.Drawing.Point(68, 37);
+            this.Input.Location = new System.Drawing.Point(68, 359);
             this.Input.Name = "Input";
             this.Input.Size = new System.Drawing.Size(648, 31);
             this.Input.TabIndex = 0;
@@ -43,7 +43,7 @@
             // MakeSort
             // 
             this.MakeSort.Font = new System.Drawing.Font("Segoe UI", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.MakeSort.Location = new System.Drawing.Point(69, 285);
+            this.MakeSort.Location = new System.Drawing.Point(69, 12);
             this.MakeSort.Name = "MakeSort";
             this.MakeSort.Size = new System.Drawing.Size(647, 136);
             this.MakeSort.TabIndex = 1;
